@@ -5,6 +5,10 @@ var commonUtil = {
 	setApp:function()
 	{
 		console.log("this is 20161129app");
+	},
+	setUnit:function()
+	{
+		console.log("20161128");
 	}
 }
 
