@@ -13,4 +13,4 @@ require("./views/login");
 SPA.config({
 	indexView:"index"    // 设置默认视图
 })
-// 现在是master
+// 现在是master   now
